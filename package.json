@@ -1,0 +1,17 @@
+{
+  "name": "testing-with-cypress",
+  "version": "1.0.0",
+  "description": "Minimal todo app example.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve ./src",
+    "e2e": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0",
+    "serve": "^14.0.1"
+  }
+}
